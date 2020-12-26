@@ -1,0 +1,1 @@
+print("Postavьte zachet уже the end");
